@@ -8,3 +8,5 @@ This repository contains the source code for the .NET wrapper of the Asus Aura S
 
 ## Getting Started
 This library has a dependency on Asus Armory Crate being installed, this library will not work without it.
+
+You can find the documentation for the library [here](https://www.asus.com/microsite/aurareadydevportal/namespace_aura_service_lib.html)
